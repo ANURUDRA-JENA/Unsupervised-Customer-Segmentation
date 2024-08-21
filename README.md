@@ -1,4 +1,6 @@
-#CustomerSegmentation using Unsupervised Learning
+<h1>CustomerSegmentation using Unsupervised Learning</h1>
+
+![CustomerSegmentationDiagram](https://github.com/ANURUDRA-JENA/Web-Scraping-Project-2/blob/ea36ed80013188a8929c0c9b598e12c1a451b471/asset_management/Designer%20(3).png)
 
 <h3>Primary Objective:</h3>
 <ul>
